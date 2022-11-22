@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268785353893",
+    "project_id": "myokipay",
+    "storage_bucket": "myokipay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268785353893:android:140cbc53e3278a0a90794c",
+        "android_client_info": {
+          "package_name": "com.example.okoipay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268785353893-6fbho8ulmlcspjuprobelsu7tuhdallb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIjtPkHJ22yxYl_RBOYEUzuf-MrSvIk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268785353893-6fbho8ulmlcspjuprobelsu7tuhdallb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
