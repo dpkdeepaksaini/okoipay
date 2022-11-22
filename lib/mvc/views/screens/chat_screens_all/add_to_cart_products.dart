@@ -110,7 +110,12 @@ class _SeeFevState extends State<SeeFev> {
               padding: const EdgeInsets.only(bottom: 10),
               child: Container(
                 height:50, width: 110,
-                child: Text(sum.toString()),
+                child: Row(
+                  children: [
+                    Text('Total Sum'),
+                    Text(sum.toString()),
+                  ],
+                ),
 
                   // Text((empty[i].price.toInt()*empty[i].qty.toInt()).toString())
 
